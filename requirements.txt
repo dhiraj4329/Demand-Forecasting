@@ -1,0 +1,15 @@
+# ipython
+# pandas
+# numpy
+# matplotlib
+# statsmodels
+# seaborn
+# pmdarima
+# scikit-learn
+# #fbprophet
+# pycaret==3.3.0
+#streamlit
+# google-generativeai
+# python-dotenv
+# langchain
+sqlite3
